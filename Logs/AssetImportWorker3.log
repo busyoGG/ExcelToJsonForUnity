@@ -1,0 +1,1132 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.31f1c1 (143dae428054) revision 1326510'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalWorkstation' Language: 'zh' Physical Memory: 32577 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+D:/WorkSpace/Unity/ExcelToJsonForUnity
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+4369
+Successfully changed project path to: D:/WorkSpace/Unity/ExcelToJsonForUnity
+D:/WorkSpace/Unity/ExcelToJsonForUnity
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [2004] Host "[IP] 192.168.2.2 [Port] 0 [Flags] 2 [Guid] 1134264328 [EditorId] 1134264328 [Version] 1048832 [Id] WindowsEditor(7,win-20240808ECR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [2004] Host "[IP] 192.168.2.2 [Port] 0 [Flags] 2 [Guid] 1134264328 [EditorId] 1134264328 [Version] 1048832 [Id] WindowsEditor(7,win-20240808ECR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+Refreshing native plugins compatible for Editor in 5.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.31f1c1 (143dae428054)
+[Subsystems] Discovering subsystems at path D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/WorkSpace/Unity/ExcelToJsonForUnity/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 SUPER (ID=0x2783)
+    Vendor:   NVIDIA
+    VRAM:     11999 MB
+    Driver:   32.0.15.6081
+Initialize mono
+Mono path[0] = 'D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56724
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005458 seconds.
+- Loaded All Assemblies, in  0.221 seconds
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 256 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.464 seconds
+Domain Reload Profiling: 684ms
+	BeginReloadAssembly (54ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (107ms)
+		LoadAssemblies (77ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (81ms)
+			TypeCache.Refresh (81ms)
+				TypeCache.ScanAssembly (73ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (465ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (434ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (321ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (83ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+OutOfMemoryException: Out of memory
+  at (wrapper managed-to-native) System.Object.__icall_wrapper_ves_icall_array_new_specific(intptr,int)
+  at System.IO.BinaryReader.ReadBytes (System.Int32 count) [0x0002f] in <467a840a914a47078e4ae9b0b1e8779e>:0 
+  at Mono.Cecil.PE.ImageReader.ReadHeapData (System.UInt32 offset, System.UInt32 size) [0x00024] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadMetadataStream (Mono.Cecil.PE.Section section) [0x00021] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadMetadata () [0x0007b] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadImage () [0x000a2] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.PE.ImageReader.ReadImage (Mono.Disposable`1[T] stream, System.String file_name) [0x00007] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.ModuleDefinition.ReadModule (Mono.Disposable`1[T] stream, System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00006] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.ModuleDefinition.ReadModule (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x0006c] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.BaseAssemblyResolver.GetAssembly (System.String file, Mono.Cecil.ReaderParameters parameters) [0x0000f] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.BaseAssemblyResolver.SearchDirectory (Mono.Cecil.AssemblyNameReference name, System.Collections.Generic.IEnumerable`1[T] directories, Mono.Cecil.ReaderParameters parameters) [0x00073] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.BaseAssemblyResolver.Resolve (Mono.Cecil.AssemblyNameReference name, Mono.Cecil.ReaderParameters parameters) [0x0000c] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.BaseAssemblyResolver.Resolve (Mono.Cecil.AssemblyNameReference name) [0x00007] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at UnityEditor.AssemblyValidation+AssemblyResolver.Resolve (Mono.Cecil.AssemblyNameReference name) [0x0002f] in <c066465d7f1c48b387a389b946d1b648>:0 
+  at UnityEditor.AssemblyValidation.ResolveAndSetupReferences (System.Int32 index, UnityEditor.AssemblyValidation+Error[] errors, Mono.Cecil.AssemblyDefinition[] assemblyDefinitions, System.Collections.Generic.Dictionary`2[TKey,TValue] assemblyDefinitionNameToIndex, UnityEditor.AssemblyValidation+AssemblyAndReferences[] assemblyAndReferences, System.String assemblyPath) [0x00084] in <c066465d7f1c48b387a389b946d1b648>:0 
+  at UnityEditor.AssemblyValidation.CheckAssemblyReferences (System.String[] assemblyPaths, UnityEditor.AssemblyValidation+Error[] errors, Mono.Cecil.AssemblyDefinition[] assemblyDefinitions, System.Func`2[T,TResult] compatibleWithEditor) [0x00106] in <c066465d7f1c48b387a389b946d1b648>:0 
+  at UnityEditor.AssemblyValidation.ValidateAssemblyDefinitions (System.String[] assemblyPaths, Mono.Cecil.AssemblyDefinition[] assemblyDefinitions, System.Func`2[T,TResult] compatibleWithEditor) [0x0000a] in <c066465d7f1c48b387a389b946d1b648>:0 
+  at UnityEditor.AssemblyValidation.ValidateAssemblies (System.String[] assemblyPaths, System.Boolean enableLogging) [0x00054] in <c066465d7f1c48b387a389b946d1b648>:0 
+
+Symbol file LoadedFromMemory is not a mono symbol file
+Failed loading assembly Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll reason: Not enough space
+Loading assembly failed: "Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll" reason: Not enough space
+Failed loading assembly Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll reason: Not enough space
+Loading assembly failed: "Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll" reason: Not enough space
+Failed loading assembly Library/ScriptAssemblies/UnityEngine.TestRunner.dll reason: Not enough space
+Loading assembly failed: "Library/ScriptAssemblies/UnityEngine.TestRunner.dll" reason: Not enough space
+Could not allocate 52548 bytes
+Crash!!!
+  ERROR: SymInitialize, GetLastError: '内存资源不足，无法处理此命令。
+' (Address: 0000000000000000)
+  ERROR: SymGetSearchPath, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+SymInit: Symbol-SearchPath: '', symOptions: 534, UserName: 'Administrator'
+OS-Version: 10.0.0
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Unity.exe:Unity.exe (00007FF74B9E0000), size: 89305088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2022.3.31.15790
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF9B3E50000), size: 2191360 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF9B2530000), size: 802816 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF9B1370000), size: 3895296 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\user32.dll:user32.dll (00007FF9B3940000), size: 1765376 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\win32u.dll:win32u.dll (00007FF9B1220000), size: 155648 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF9B2B40000), size: 167936 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF9B1730000), size: 1146880 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF9B1970000), size: 630784 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3374
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF9B1850000), size: 1118208 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3593
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\advapi32.dll:advapi32.dll (00007FF9B3D50000), size: 729088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF9B2600000), size: 684032 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 7.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\sechost.dll:sechost.dll (00007FF9B1C20000), size: 688128 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF9B1340000), size: 163840 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF9B1D80000), size: 1130496 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\shell32.dll:shell32.dll (00007FF9B30B0000), size: 8818688 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\setupapi.dll:setupapi.dll (00007FF9B1FB0000), size: 4669440 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\psapi.dll:psapi.dll (00007FF9B1F00000), size: 32768 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF9B3CD0000), size: 462848 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FF9AFC30000), size: 184320 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (00007FF9B1250000), size: 442368 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\hid.dll:hid.dll (00007FF9AF9D0000), size: 57344 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF9B2FD0000), size: 880640 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\combase.dll:combase.dll (00007FF9B27B0000), size: 3727360 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FF9B1F70000), size: 200704 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3374
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dhcpcsvc.dll:dhcpcsvc.dll (00007FF9AB8B0000), size: 126976 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\ole32.dll:ole32.dll (00007FF9B2E20000), size: 1724416 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wsock32.dll:wsock32.dll (00007FF9AC560000), size: 36864 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dhcpcsvc6.dll:dhcpcsvc6.dll (00007FF9ABC70000), size: 102400 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF9B2BF0000), size: 385024 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF9B1A10000), size: 1466368 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4169
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FF918560000), size: 10063872 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2020.3.4.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\s3tcompress.dll:s3tcompress.dll (00007FF9326B0000), size: 180224 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\etccompress.dll:etccompress.dll (00007FF91B4A0000), size: 5066752 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FF91ADD0000), size: 1826816 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\compress_bc7e.dll:compress_bc7e.dll (00007FF91BAE0000), size: 1433600 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 6582272 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.18.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FF91B370000), size: 1187840 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FF9AC550000), size: 45056 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 1.0.1812.6001
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FF9174E0000), size: 8990720 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 23.0.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\NativeProxyHelper.dll:NativeProxyHelper.dll (00007FF91AB10000), size: 1789952 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF9AD310000), size: 40960 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF9ADB40000), size: 176128 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF9A86C0000), size: 212992 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF959550000), size: 184320 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF959580000), size: 1048576 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF9AB9D0000), size: 1269760 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FF930BC0000), size: 499712 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 23.0.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FF99E8A0000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 14.40.33810.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FF98DF80000), size: 122880 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 14.40.33810.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FF9B0080000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FF98E1D0000), size: 577536 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 14.40.33810.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FF9ADE30000), size: 225280 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\OpenRL.dll:OpenRL.dll (000001DFC7C60000), size: 12779520 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 1.5.0.2907
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FF9B0500000), size: 274432 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3810
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCR100.dll:MSVCR100.dll (00000000584E0000), size: 860160 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.40219.473
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCP100.dll:MSVCP100.dll (00000000585C0000), size: 622592 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.40219.473
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\embree.dll:embree.dll (00007FF9164F0000), size: 16711680 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2.14.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\tbb.dll:tbb.dll (00007FF930B50000), size: 413696 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2017.0.2016.1004
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FF98B640000), size: 679936 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 12.0.40664.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FF9726F0000), size: 978944 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 12.0.40664.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\OpenRL_pthread.dll:OpenRL_pthread.dll (000001DFC88B0000), size: 61440 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2.9.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FF9B09C0000), size: 73728 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FF9B0970000), size: 110592 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FF9B0200000), size: 217088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FF9B0960000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF9B12C0000), size: 503808 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSWSOCK.DLL:MSWSOCK.DLL (00007FF9B0710000), size: 430080 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\cfgmgr32.DLL:cfgmgr32.DLL (00007FF9B0E50000), size: 319488 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF9B0240000), size: 98304 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FF9AD760000), size: 724992 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF9AF0D0000), size: 9433088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FF9AEF90000), size: 1306624 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3810
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\SHCORE.dll:SHCORE.dll (00007FF9B2430000), size: 1019904 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FF9B1090000), size: 159744 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\IconCodecService.dll:IconCodecService.dll (00007FF98E9D0000), size: 36864 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FF9AD560000), size: 1773568 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3880
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FF9B1CD0000), size: 720896 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2001.12.10941.16384
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\netprofm.dll:netprofm.dll (00007FF9AD270000), size: 491520 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\npmproxy.dll:npmproxy.dll (00007FF9AA200000), size: 98304 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\NSI.dll:NSI.dll (00007FF9B2E10000), size: 36864 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FF9AFCA0000), size: 1056768 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\napinsp.dll:napinsp.dll (00007FF984750000), size: 94208 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (00007FF984000000), size: 110592 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\winrnr.dll:winrnr.dll (00007FF983FE0000), size: 69632 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wshbth.dll:wshbth.dll (00007FF992B60000), size: 86016 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\nlansp_c.dll:nlansp_c.dll (00007FF983FB0000), size: 159744 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Program Files\Bonjour\mdnsNSP.dll:mdnsNSP.dll (000000005A180000), size: 155648 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.0.0.10
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FF9AAAE0000), size: 536576 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FF9AABB0000), size: 40960 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\NVUnityPlugin.DLL:NVUnityPlugin.DLL (00007FF91A990000), size: 1519616 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Data\Tools\astcenc-avx2.dll:astcenc-avx2.dll (00007FF9305E0000), size: 540672 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FF9A9750000), size: 647168 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DEVOBJ.dll:DEVOBJ.dll (00007FF9B0E20000), size: 180224 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FF9AEBF0000), size: 2453504 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FF9AEE50000), size: 1011712 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (00007FF9AA6A0000), size: 299008 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvldumdx.dll:nvldumdx.dll (00007FF9A4F50000), size: 790528 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FF9AB0F0000), size: 204800 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wldp.dll:wldp.dll (00007FF9B0A30000), size: 299008 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FF9AAE00000), size: 1449984 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FF9B3920000), size: 126976 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvgpucomp64.dll:nvgpucomp64.dll (00007FF9A2BF0000), size: 33480704 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\Display.NvContainer\NvMessageBus.dll:NvMessageBus.dll (00007FF9A2890000), size: 3506176 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.12.3354.5005
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvwgf2umx.dll:nvwgf2umx.dll (00007FF998FC0000), size: 68276224 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FF9B0010000), size: 315392 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FF9AFFF0000), size: 77824 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FF96D480000), size: 2949120 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.28.0.417
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FF9B03B0000), size: 212992 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvppex.dll:nvppex.dll (00007FF96D320000), size: 1396736 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FF9A5DF0000), size: 65536 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FF9A5D70000), size: 524288 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FF9AA890000), size: 81920 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FF9A4BE0000), size: 1015808 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FF9AA840000), size: 118784 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\cudart64_90.dll:cudart64_90.dll (00007FF930570000), size: 397312 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 6.14.11.9000
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\opencl.dll:opencl.dll (00007FF94A060000), size: 483328 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.0.6.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\radeonrays.dll:radeonrays.dll (00007FF91C470000), size: 557056 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Data\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF8FF4E0000), size: 10825728 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Data\PlaybackEngines\iOSSupport\x64\UnityEditor.iOS.Native.dll:UnityEditor.iOS.Native.dll (00007FF91B0F0000), size: 339968 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FF9AB1B0000), size: 1052672 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 7.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\apphelp.dll:apphelp.dll (00007FF9ACE50000), size: 618496 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3810
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\Windows.FileExplorer.Common.dll:Windows.FileExplorer.Common.dll (00007FF992130000), size: 745472 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\edputil.dll:edputil.dll (00007FF990D70000), size: 163840 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FF9A1950000), size: 962560 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\urlmon.dll:urlmon.dll (00007FF9A1590000), size: 2031616 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 11.0.22621.4169
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\iertutil.dll:iertutil.dll (00007FF99EEF0000), size: 2875392 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 11.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\srvcli.dll:srvcli.dll (00007FF99F1B0000), size: 163840 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\netutils.dll:netutils.dll (00007FF9AFC20000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\cldapi.dll:cldapi.dll (00007FF990DA0000), size: 184320 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\virtdisk.dll:virtdisk.dll (00007FF9833D0000), size: 90112 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\smartscreenps.dll:smartscreenps.dll (00007FF98A4C0000), size: 118784 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\shdocvw.dll:shdocvw.dll (00007FF99EE20000), size: 512000 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\appresolver.dll:appresolver.dll (00007FF992660000), size: 704512 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\Bcp47Langs.dll:Bcp47Langs.dll (00007FF9A0EA0000), size: 393216 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\OneCoreUAPCommonProxyStub.dll:OneCoreUAPCommonProxyStub.dll (00007FF9A5E10000), size: 6471680 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF9AE9B0000), size: 2301952 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3593
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+
+========== OUTPUTTING STACK TRACE ==================
+
+  ERROR: SymInitialize, GetLastError: '内存资源不足，无法处理此命令。
+' (Address: 0000000000000000)
+  ERROR: SymGetSearchPath, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+SymInit: Symbol-SearchPath: '', symOptions: 534, UserName: 'Administrator'
+OS-Version: 10.0.0
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Unity.exe:Unity.exe (00007FF74B9E0000), size: 89305088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2022.3.31.15790
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF9B3E50000), size: 2191360 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF9B2530000), size: 802816 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF9B1370000), size: 3895296 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\user32.dll:user32.dll (00007FF9B3940000), size: 1765376 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\win32u.dll:win32u.dll (00007FF9B1220000), size: 155648 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF9B2B40000), size: 167936 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF9B1730000), size: 1146880 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF9B1970000), size: 630784 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3374
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF9B1850000), size: 1118208 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3593
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\advapi32.dll:advapi32.dll (00007FF9B3D50000), size: 729088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF9B2600000), size: 684032 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 7.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\sechost.dll:sechost.dll (00007FF9B1C20000), size: 688128 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF9B1340000), size: 163840 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF9B1D80000), size: 1130496 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\shell32.dll:shell32.dll (00007FF9B30B0000), size: 8818688 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\setupapi.dll:setupapi.dll (00007FF9B1FB0000), size: 4669440 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\psapi.dll:psapi.dll (00007FF9B1F00000), size: 32768 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF9B3CD0000), size: 462848 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FF9AFC30000), size: 184320 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (00007FF9B1250000), size: 442368 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\hid.dll:hid.dll (00007FF9AF9D0000), size: 57344 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF9B2FD0000), size: 880640 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\combase.dll:combase.dll (00007FF9B27B0000), size: 3727360 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FF9B1F70000), size: 200704 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3374
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dhcpcsvc.dll:dhcpcsvc.dll (00007FF9AB8B0000), size: 126976 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\ole32.dll:ole32.dll (00007FF9B2E20000), size: 1724416 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wsock32.dll:wsock32.dll (00007FF9AC560000), size: 36864 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dhcpcsvc6.dll:dhcpcsvc6.dll (00007FF9ABC70000), size: 102400 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF9B2BF0000), size: 385024 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF9B1A10000), size: 1466368 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4169
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FF918560000), size: 10063872 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2020.3.4.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\s3tcompress.dll:s3tcompress.dll (00007FF9326B0000), size: 180224 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\etccompress.dll:etccompress.dll (00007FF91B4A0000), size: 5066752 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FF91ADD0000), size: 1826816 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\compress_bc7e.dll:compress_bc7e.dll (00007FF91BAE0000), size: 1433600 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 6582272 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.18.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FF91B370000), size: 1187840 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FF9AC550000), size: 45056 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 1.0.1812.6001
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FF9174E0000), size: 8990720 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 23.0.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\NativeProxyHelper.dll:NativeProxyHelper.dll (00007FF91AB10000), size: 1789952 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF9AD310000), size: 40960 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF9ADB40000), size: 176128 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF9A86C0000), size: 212992 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF959550000), size: 184320 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF959580000), size: 1048576 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF9AB9D0000), size: 1269760 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FF930BC0000), size: 499712 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 23.0.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FF99E8A0000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 14.40.33810.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FF98DF80000), size: 122880 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 14.40.33810.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FF9B0080000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FF98E1D0000), size: 577536 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 14.40.33810.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FF9ADE30000), size: 225280 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\OpenRL.dll:OpenRL.dll (000001DFC7C60000), size: 12779520 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 1.5.0.2907
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FF9B0500000), size: 274432 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3810
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCR100.dll:MSVCR100.dll (00000000584E0000), size: 860160 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.40219.473
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCP100.dll:MSVCP100.dll (00000000585C0000), size: 622592 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.40219.473
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\embree.dll:embree.dll (00007FF9164F0000), size: 16711680 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2.14.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\tbb.dll:tbb.dll (00007FF930B50000), size: 413696 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2017.0.2016.1004
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FF98B640000), size: 679936 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 12.0.40664.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FF9726F0000), size: 978944 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 12.0.40664.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\OpenRL_pthread.dll:OpenRL_pthread.dll (000001DFC88B0000), size: 61440 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2.9.0.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FF9B09C0000), size: 73728 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FF9B0970000), size: 110592 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FF9B0200000), size: 217088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FF9B0960000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF9B12C0000), size: 503808 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\MSWSOCK.DLL:MSWSOCK.DLL (00007FF9B0710000), size: 430080 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\cfgmgr32.DLL:cfgmgr32.DLL (00007FF9B0E50000), size: 319488 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF9B0240000), size: 98304 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FF9AD760000), size: 724992 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF9AF0D0000), size: 9433088 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FF9AEF90000), size: 1306624 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3810
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\SHCORE.dll:SHCORE.dll (00007FF9B2430000), size: 1019904 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FF9B1090000), size: 159744 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\IconCodecService.dll:IconCodecService.dll (00007FF98E9D0000), size: 36864 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FF9AD560000), size: 1773568 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3880
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FF9B1CD0000), size: 720896 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 2001.12.10941.16384
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\netprofm.dll:netprofm.dll (00007FF9AD270000), size: 491520 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\npmproxy.dll:npmproxy.dll (00007FF9AA200000), size: 98304 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\NSI.dll:NSI.dll (00007FF9B2E10000), size: 36864 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FF9AFCA0000), size: 1056768 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\napinsp.dll:napinsp.dll (00007FF984750000), size: 94208 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (00007FF984000000), size: 110592 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\winrnr.dll:winrnr.dll (00007FF983FE0000), size: 69632 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wshbth.dll:wshbth.dll (00007FF992B60000), size: 86016 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\nlansp_c.dll:nlansp_c.dll (00007FF983FB0000), size: 159744 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Program Files\Bonjour\mdnsNSP.dll:mdnsNSP.dll (000000005A180000), size: 155648 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.0.0.10
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FF9AAAE0000), size: 536576 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FF9AABB0000), size: 40960 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\NVUnityPlugin.DLL:NVUnityPlugin.DLL (00007FF91A990000), size: 1519616 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Data\Tools\astcenc-avx2.dll:astcenc-avx2.dll (00007FF9305E0000), size: 540672 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FF9A9750000), size: 647168 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DEVOBJ.dll:DEVOBJ.dll (00007FF9B0E20000), size: 180224 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FF9AEBF0000), size: 2453504 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FF9AEE50000), size: 1011712 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (00007FF9AA6A0000), size: 299008 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvldumdx.dll:nvldumdx.dll (00007FF9A4F50000), size: 790528 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FF9AB0F0000), size: 204800 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wldp.dll:wldp.dll (00007FF9B0A30000), size: 299008 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FF9AAE00000), size: 1449984 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FF9B3920000), size: 126976 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvgpucomp64.dll:nvgpucomp64.dll (00007FF9A2BF0000), size: 33480704 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\Display.NvContainer\NvMessageBus.dll:NvMessageBus.dll (00007FF9A2890000), size: 3506176 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.12.3354.5005
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvwgf2umx.dll:nvwgf2umx.dll (00007FF998FC0000), size: 68276224 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (00007FF9B0010000), size: 315392 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3958
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FF9AFFF0000), size: 77824 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FF96D480000), size: 2949120 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.28.0.417
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FF9B03B0000), size: 212992 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.1
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_34f9511bafd21ff9\nvppex.dll:nvppex.dll (00007FF96D320000), size: 1396736 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 32.0.15.6081
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FF9A5DF0000), size: 65536 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FF9A5D70000), size: 524288 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FF9AA890000), size: 81920 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FF9A4BE0000), size: 1015808 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FF9AA840000), size: 118784 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\cudart64_90.dll:cudart64_90.dll (00007FF930570000), size: 397312 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 6.14.11.9000
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\opencl.dll:opencl.dll (00007FF94A060000), size: 483328 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 3.0.6.0
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\radeonrays.dll:radeonrays.dll (00007FF91C470000), size: 557056 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Data\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF8FF4E0000), size: 10825728 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Data\PlaybackEngines\iOSSupport\x64\UnityEditor.iOS.Native.dll:UnityEditor.iOS.Native.dll (00007FF91B0F0000), size: 339968 (result: 6), SymType: '-unknown-', PDB: ''
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FF9AB1B0000), size: 1052672 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 7.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\apphelp.dll:apphelp.dll (00007FF9ACE50000), size: 618496 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3810
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\Windows.FileExplorer.Common.dll:Windows.FileExplorer.Common.dll (00007FF992130000), size: 745472 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\edputil.dll:edputil.dll (00007FF990D70000), size: 163840 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3527
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FF9A1950000), size: 962560 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4036
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\urlmon.dll:urlmon.dll (00007FF9A1590000), size: 2031616 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 11.0.22621.4169
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\iertutil.dll:iertutil.dll (00007FF99EEF0000), size: 2875392 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 11.0.22621.4317
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\srvcli.dll:srvcli.dll (00007FF99F1B0000), size: 163840 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\netutils.dll:netutils.dll (00007FF9AFC20000), size: 49152 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\cldapi.dll:cldapi.dll (00007FF990DA0000), size: 184320 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.2506
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\virtdisk.dll:virtdisk.dll (00007FF9833D0000), size: 90112 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\smartscreenps.dll:smartscreenps.dll (00007FF98A4C0000), size: 118784 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\shdocvw.dll:shdocvw.dll (00007FF99EE20000), size: 512000 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\appresolver.dll:appresolver.dll (00007FF992660000), size: 704512 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4111
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\Bcp47Langs.dll:Bcp47Langs.dll (00007FF9A0EA0000), size: 393216 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3672
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\System32\OneCoreUAPCommonProxyStub.dll:OneCoreUAPCommonProxyStub.dll (00007FF9A5E10000), size: 6471680 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.4249
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF9AE9B0000), size: 2301952 (result: 6), SymType: '-unknown-', PDB: '', fileVersion: 10.0.22621.3593
+  ERROR: LoadModule, GetLastError: '句柄无效。
+' (Address: 0000000000000000)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF9B13CFE4C)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF9B13CFE4C)
+0x00007FF9B13CFE4C ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF8FF550C1C)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF8FF550C1C)
+0x00007FF8FF550C1C ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF8FF53C822)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF8FF53C822)
+0x00007FF8FF53C822 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF8FF53C888)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF8FF53C888)
+0x00007FF8FF53C888 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF8FF5CD5AC)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF8FF5CD5AC)
+0x00007FF8FF5CD5AC ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF8FF69622D)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF8FF69622D)
+0x00007FF8FF69622D ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF8FF695EB7)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF8FF695EB7)
+0x00007FF8FF695EB7 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74CAB3BDF)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74CAB3BDF)
+0x00007FF74CAB3BDF ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74CAB2E81)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74CAB2E81)
+0x00007FF74CAB2E81 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74CAB2C9B)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74CAB2C9B)
+0x00007FF74CAB2C9B ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74CAB226C)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74CAB226C)
+0x00007FF74CAB226C ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74CAB523C)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74CAB523C)
+0x00007FF74CAB523C ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DA5DDC2)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DA5DDC2)
+0x00007FF74DA5DDC2 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DA5E374)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DA5E374)
+0x00007FF74DA5E374 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DF6779F)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DF6779F)
+0x00007FF74DF6779F ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DFA1882)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DFA1882)
+0x00007FF74DFA1882 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DF8D82E)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DF8D82E)
+0x00007FF74DF8D82E ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DF8F45E)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DF8F45E)
+0x00007FF74DF8F45E ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DF9FC2C)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DF9FC2C)
+0x00007FF74DF9FC2C ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DF7378F)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DF7378F)
+0x00007FF74DF7378F ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DF3E677)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DF3E677)
+0x00007FF74DF3E677 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DF3E6FB)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DF3E6FB)
+0x00007FF74DF3E6FB ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74D7366E1)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74D7366E1)
+0x00007FF74D7366E1 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74DBCAC05)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74DBCAC05)
+0x00007FF74DBCAC05 ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF74EFB04FE)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF74EFB04FE)
+0x00007FF74EFB04FE ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF9B254257D)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF9B254257D)
+0x00007FF9B254257D ((<unknown>)) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: '句柄无效。
+' (Address: 00007FF9B3EAAF08)
+  ERROR: SymGetModuleInfo64, GetLastError: '动态链接库(DLL)初始化例程失败。
+' (Address: 00007FF9B3EAAF08)
+0x00007FF9B3EAAF08 ((<unknown>)) (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/Administrator/AppData/Local/Temp/Unity/Editor/Crashes

@@ -1,0 +1,549 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.31f1c1 (143dae428054) revision 1326510'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalWorkstation' Language: 'zh' Physical Memory: 32577 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Development\UnityEditor\2022.3.31f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+D:/WorkSpace/Unity/ExcelToJsonForUnity
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+4369
+Successfully changed project path to: D:/WorkSpace/Unity/ExcelToJsonForUnity
+D:/WorkSpace/Unity/ExcelToJsonForUnity
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [86984] Host "[IP] 192.168.2.2 [Port] 0 [Flags] 2 [Guid] 2116193336 [EditorId] 2116193336 [Version] 1048832 [Id] WindowsEditor(7,win-20240808ECR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [86984] Host "[IP] 192.168.2.2 [Port] 0 [Flags] 2 [Guid] 2116193336 [EditorId] 2116193336 [Version] 1048832 [Id] WindowsEditor(7,win-20240808ECR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+Refreshing native plugins compatible for Editor in 5.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.31f1c1 (143dae428054)
+[Subsystems] Discovering subsystems at path D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/WorkSpace/Unity/ExcelToJsonForUnity/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 SUPER (ID=0x2783)
+    Vendor:   NVIDIA
+    VRAM:     11999 MB
+    Driver:   32.0.15.6081
+Initialize mono
+Mono path[0] = 'D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56096
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: D:/Development/UnityEditor/2022.3.31f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004745 seconds.
+- Loaded All Assemblies, in  0.174 seconds
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 174 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.347 seconds
+Domain Reload Profiling: 521ms
+	BeginReloadAssembly (51ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (17ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (72ms)
+		LoadAssemblies (51ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (70ms)
+			TypeCache.Refresh (70ms)
+				TypeCache.ScanAssembly (63ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (347ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (318ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (235ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (56ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.319 seconds
+Refreshing native plugins compatible for Editor in 1.55 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.487 seconds
+Domain Reload Profiling: 805ms
+	BeginReloadAssembly (70ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (11ms)
+	RebuildCommonClasses (16ms)
+	RebuildNativeTypeToScriptingClass (5ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (207ms)
+		LoadAssemblies (150ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (96ms)
+			TypeCache.Refresh (85ms)
+				TypeCache.ScanAssembly (75ms)
+			ScanForSourceGeneratedMonoScriptInfo (8ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (487ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (406ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (48ms)
+			ProcessInitializeOnLoadAttributes (322ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.36 seconds
+Refreshing native plugins compatible for Editor in 1.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3129 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (57.7 KB). Loaded Objects now: 3592.
+Memory consumption went from 126.3 MB to 126.2 MB.
+Total: 2.645800 ms (FindLiveObjects: 0.124800 ms CreateObjectMapping: 0.051700 ms MarkObjects: 2.389700 ms  DeleteObjects: 0.078600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 88848.181990 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/E_Width.cs
+  artifactKey: Guid(ba71b8cb4730a1040b710ffa943b5a0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/E_Width.cs using Guid(ba71b8cb4730a1040b710ffa943b5a0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '70ffe2bcbe093d841cb05abf2149c797') in 0.043715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_Horizontal.cs
+  artifactKey: Guid(b61fd3730fe7fe34c9103a7b4b46854c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_Horizontal.cs using Guid(b61fd3730fe7fe34c9103a7b4b46854c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'eb93ae05a1cb845d8f5ee73b29b3f088') in 0.003329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/E_Options.cs
+  artifactKey: Guid(c07ad798a877403884fdcfa06ad474cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/E_Options.cs using Guid(c07ad798a877403884fdcfa06ad474cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'dd95479f994bc48a2fe6468d0155467f') in 0.002290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/BaseEditorIMGUI.cs
+  artifactKey: Guid(96e82cb41368ff640900c065735ee3e8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/BaseEditorIMGUI.cs using Guid(96e82cb41368ff640900c065735ee3e8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '3948dab0bf4537328c44f34676cdba1d') in 0.002838 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Border.cs
+  artifactKey: Guid(d4bebbfa291d46da993665e9eb05c6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Border.cs using Guid(d4bebbfa291d46da993665e9eb05c6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '2dada12d915265b590600f849023c054') in 0.002491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/UIGenerator.cs
+  artifactKey: Guid(9a2dfe9a34f6afe479f562ff963b9552) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/UIGenerator.cs using Guid(9a2dfe9a34f6afe479f562ff963b9552) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'e7995cb6b17599b842c256afdce12113') in 0.002188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_BorderColor.cs
+  artifactKey: Guid(1a4fb6ece2d745dc85c4111d5fee954a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_BorderColor.cs using Guid(1a4fb6ece2d745dc85c4111d5fee954a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '08fea213554e41f43482b64170c96d64') in 0.002198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_FontColor.cs
+  artifactKey: Guid(92fad6e00fc84071a5ab519fc9867c6d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_FontColor.cs using Guid(92fad6e00fc84071a5ab519fc9867c6d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'b66e77ea162e6945316191ce050483f7') in 0.002570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/LayoutGenerator.cs
+  artifactKey: Guid(3315c144ac1358649a301afb8184d0f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/LayoutGenerator.cs using Guid(3315c144ac1358649a301afb8184d0f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '075af6b011a3dae4dc023aa1304ffb1f') in 0.002020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Editor/ExcelToJson.cs
+  artifactKey: Guid(57cbf7bcbe208af46bb24d810ad1cf3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/ExcelToJson.cs using Guid(57cbf7bcbe208af46bb24d810ad1cf3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '231cbb6c2744fbcc2dc7301a9dcff4f0') in 0.001989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '708d3a475757812b8ceadc060376e1a8') in 0.001757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Editor/EditorExtension/BaseEditorVE.cs
+  artifactKey: Guid(86544101e7e04447ad9618eeea15e796) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/BaseEditorVE.cs using Guid(86544101e7e04447ad9618eeea15e796) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '2664001b2da482db1a9923c1818be933') in 0.002583 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Editor/EditorExtension/Bean/LayoutNode.cs
+  artifactKey: Guid(1578e2dd22ea1f54f876da8fee6a0607) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Bean/LayoutNode.cs using Guid(1578e2dd22ea1f54f876da8fee6a0607) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '3e5439c05233ab99d6f81ae07999915c') in 0.002145 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_List.cs
+  artifactKey: Guid(1a9970d88e934052a849751beece2c60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_List.cs using Guid(1a9970d88e934052a849751beece2c60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '850c7d76e9a150e3c219639db37e59e2') in 0.002254 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/E_Editor.cs
+  artifactKey: Guid(453a5e4251873ee4ab8fe106aabd55d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/E_Editor.cs using Guid(453a5e4251873ee4ab8fe106aabd55d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'aa44248ae069c1cbaa93e48a8e94837a') in 0.002073 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_List.cs
+  artifactKey: Guid(209d4e40cf0cb1b44bfa829c469c3743) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_List.cs using Guid(209d4e40cf0cb1b44bfa829c469c3743) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '1a0cfe6ce1847c614d3d07d5830132cc') in 0.002092 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Editor/EditorExtension/Serialize/SListDrawer.cs
+  artifactKey: Guid(ab3955e64de003746bec46008e33a7cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Serialize/SListDrawer.cs using Guid(ab3955e64de003746bec46008e33a7cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '8ce2e22c70dbdb231b650dc77eeb7e37') in 0.002767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Font.cs
+  artifactKey: Guid(da9dc7f3f33a42d7bee6ea5702c4ec8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Font.cs using Guid(da9dc7f3f33a42d7bee6ea5702c4ec8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '3ce321a532865835f0c40bb9f9dc57c7') in 0.002103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Editor/EditorExtension/VEStyleUtils.cs
+  artifactKey: Guid(feecdd8d75e34e4da09bec23285afc71) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/VEStyleUtils.cs using Guid(feecdd8d75e34e4da09bec23285afc71) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'b367da61fdf1afa0b2d7b8f155f62ffe') in 0.002028 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/E_DataType.cs
+  artifactKey: Guid(c319342e1bd04fcba1bd6ccfd4c0ac2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/E_DataType.cs using Guid(c319342e1bd04fcba1bd6ccfd4c0ac2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '21e79a212deeac49af7ac601b5efb8bb') in 0.002588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Radius.cs
+  artifactKey: Guid(0cd530bb2e1d427d889a3e8bbce2760a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Radius.cs using Guid(0cd530bb2e1d427d889a3e8bbce2760a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '2e3f3f2c4d7dae31651aa086db6ed267') in 0.002316 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/E_Wrap.cs
+  artifactKey: Guid(7e222105f71b178468912844354754c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/E_Wrap.cs using Guid(7e222105f71b178468912844354754c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'ac7a84e5eb4570a8dff1e392152deae6') in 0.002008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_BgColor.cs
+  artifactKey: Guid(8667500af2ea6824ebd9c0c9614b8594) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_BgColor.cs using Guid(8667500af2ea6824ebd9c0c9614b8594) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '3a85474c3e3d13680d1e9773241ad6cc') in 0.002215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/EEnum.cs
+  artifactKey: Guid(528ac93b99aa02b4aac39523cbd36063) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/EEnum.cs using Guid(528ac93b99aa02b4aac39523cbd36063) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'bc2d42080965756d565dde6f8bd74929') in 0.001973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Size.cs
+  artifactKey: Guid(71738b356e6fcde478656fc1b1a66629) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Size.cs using Guid(71738b356e6fcde478656fc1b1a66629) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '119f34d7fc4fdd71a54448c2a6342f71') in 0.002573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_Vertical.cs
+  artifactKey: Guid(37a8d6c808098ed42bbe49329d5cf503) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_Vertical.cs using Guid(37a8d6c808098ed42bbe49329d5cf503) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'd413c946251b6a02048ca2fd0aa1d7aa') in 0.002072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Editor/EditorExtension/Serialize/SDictionaryDrawer.cs
+  artifactKey: Guid(2c7f7508a093fe346a482e29bfdd1661) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Serialize/SDictionaryDrawer.cs using Guid(2c7f7508a093fe346a482e29bfdd1661) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'b933294fd64ad1491ffbd9a433ef1e6c') in 0.002268 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_Foldout.cs
+  artifactKey: Guid(07951645a86edf94e8a32eb678defd21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Layout/IMGUI/EL_Foldout.cs using Guid(07951645a86edf94e8a32eb678defd21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '40d59277230ca3293c30023570fe266e') in 0.002728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Layout/VE/VE_Box.cs
+  artifactKey: Guid(42aa0f99b807410e8bf7a0f49c340fc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Layout/VE/VE_Box.cs using Guid(42aa0f99b807410e8bf7a0f49c340fc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '9f047da0880fdc017f1bb142fed0807f') in 0.002339 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/E_Name.cs
+  artifactKey: Guid(aeff2821436af0341a33ce4bc8596706) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/E_Name.cs using Guid(aeff2821436af0341a33ce4bc8596706) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'ee70c5e2104b16cc85a778d2d879b7dc') in 0.002097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/Utils/ExcelToJsonConfig.cs
+  artifactKey: Guid(fc14e71ee0fedee448456d0058b8f5d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/Utils/ExcelToJsonConfig.cs using Guid(fc14e71ee0fedee448456d0058b8f5d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '56efc28fa99d6ef67a114bba2d124124') in 0.002386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/EBase.cs
+  artifactKey: Guid(8ade4fb845a567449814a846a3e870c1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/EBase.cs using Guid(8ade4fb845a567449814a846a3e870c1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '0748dc24e8867dc6772b9be59147385e') in 0.002141 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Item.cs
+  artifactKey: Guid(7934f16a49114175a2998f112d73e7bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/ES_Item.cs using Guid(7934f16a49114175a2998f112d73e7bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '5b8972e5af8eefe3e315d7c6a8897c3c') in 0.003050 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/Style/Style/IntVec4.cs
+  artifactKey: Guid(d22a393cad6f4b24b76d76f6ce6e4c42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/Style/Style/IntVec4.cs using Guid(d22a393cad6f4b24b76d76f6ce6e4c42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '338a85259efd40047bebaf2166863f50') in 0.002340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Editor/EditorExtension/Attributes/UI/E_Range.cs
+  artifactKey: Guid(5032f0f24ca755f498653ce1e57a9451) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/EditorExtension/Attributes/UI/E_Range.cs using Guid(5032f0f24ca755f498653ce1e57a9451) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '720bd35149a42da785a01c319c1c709f') in 0.002172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 51.050538 seconds.
+  path: Assets/Script
+  artifactKey: Guid(31e3fcdcd45e0544eaaa344a65ca6fdf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script using Guid(31e3fcdcd45e0544eaaa344a65ca6fdf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '1373c0da5a8a7150faee11d63c7db1ae') in 0.002652 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Script/Serialize/SDictionary.cs
+  artifactKey: Guid(f62f3159c6784084fb20cd2637c1e41f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script/Serialize/SDictionary.cs using Guid(f62f3159c6784084fb20cd2637c1e41f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '44fa5f86c1be0e623d6cd0f46cea32d8') in 0.003478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Script/Serialize/SKeyValue.cs
+  artifactKey: Guid(e242373ad3ec9d84991106b806e8fa95) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script/Serialize/SKeyValue.cs using Guid(e242373ad3ec9d84991106b806e8fa95) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: 'd233bde4afbe003e4af4fe625c67c4a8') in 0.004706 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Script/Serialize/SList.cs
+  artifactKey: Guid(d865eda82a987ac408ab4a34c6a2c4aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script/Serialize/SList.cs using Guid(d865eda82a987ac408ab4a34c6a2c4aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 28 workers.
+ -> (artifact id: '04fd7cdaa1ef44d39cda138eff1f29af') in 0.003353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: 由于线程退出或应用程序请求，已中止 I/O 操作。
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
